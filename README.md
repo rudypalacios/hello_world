@@ -15,7 +15,3 @@ This is a testing repository with a Hello World React example
  - Create a PR pointing to master
 
  Done, your environment has been tested!
-
-
-### Adding my own readme:
-Making the change here because of existing readme.

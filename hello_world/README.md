@@ -1,3 +1,7 @@
+Welcome to my Hello World Repo
+
+Paypal Evaluation - Ghadeer Haddad
+-------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
